@@ -1,4 +1,4 @@
-FROM busybox:1.33
+FROM busybox:1.36
 LABEL maintainer "olhtbr@gmail.com"
 
 COPY check in out /opt/resource/
